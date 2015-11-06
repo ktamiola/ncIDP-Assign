@@ -1,0 +1,11 @@
+# 18th SEP 2010
+- implemented Condition-Menu independent ncIDP spin graph assigner, follwing
+suggestions from Tom Goddard (e-mail @ 16th SEP 2010)
+
+# 30th NOV 2010
+- reformatted the CS and DEV tables
+
+# 2nd DEC 2010
+- added an UPDATE button (still hidden)
+- the ncIDP extensions are now loaded from user location $SPARKYHOME/Python/
+- minor performance tweaks in the code
